@@ -2,5 +2,5 @@
 
 | Platform / Difficulty | Easy | Medium | Hard |
 | :---: | :---: | :---: | :---: |
-| LeetCode | 48 | 25 | 1 |
-| LintCode | 15 | 33 | 3 |
+| LeetCode | 48 | 26 | 1 |
+| LintCode | 19 | 39 | 4 |
