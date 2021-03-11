@@ -1,6 +1,6 @@
 # LeetCodePractice
 
-| Platform / Difficulty | Easy | Medium | Hard |
-| :---: | :---: | :---: | :---: |
-| LeetCode | 48 | 26 | 1 |
-| LintCode | 19 | 39 | 4 |
+| Platform / Difficulty | Naive | Easy | Medium | Hard | Total |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| LeetCode | x | 48 | 26 | 1 | 75 |
+| LintCode | 2 | 19 | 40 | 4 | 65 |
